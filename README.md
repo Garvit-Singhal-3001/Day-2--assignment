@@ -1,2 +1,2 @@
 # Day-2--assignment
-working repo
+day-2 assignments completed
